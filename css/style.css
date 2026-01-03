@@ -177,6 +177,7 @@ body {
   overflow-x: hidden;
   position: relative;
   font-family: Ubuntu, sans-serif;
+  width: 100vw;
 }
 
 a {
